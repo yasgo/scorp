@@ -1,0 +1,26 @@
+{
+  "header.title": "Sahte",
+  "header.nav.home": "Ana Sayfa",
+  "header.nav.contact": "İletişim",
+  "header.nav.login": "Giriş",
+  "header.nav.logout": "Çıkış",
+
+  "login.title": "Giriş Yap",
+  "login.form.name": "İsim",
+  "login.form.email": "Mail Adresi",
+  "login.form.password": "Şifre",
+  "login.form.login": "Giriş",
+
+  "contact.title": "İletişim",
+  "contact.form.name": "İsim",
+  "contact.form.email": "Mail Adresi",
+  "contact.form.phone": "Telefon Numarası",
+  "contact.form.country": "Ülke",
+  "contact.form.text": "Metin",
+  "contact.form.send": "Gönder",
+
+  "home.title": "Lorem Ipsum Nedir?",
+  "home.p": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir.",
+
+  "footer.title": "Telif Hakkı"
+}

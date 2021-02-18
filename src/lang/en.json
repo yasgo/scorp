@@ -1,0 +1,26 @@
+{
+  "header.title": "Dummy",
+  "header.nav.home": "Home",
+  "header.nav.contact": "Contact",
+  "header.nav.login": "Login",
+  "header.nav.logout": "Logout",
+
+  "login.title": "Login",
+  "login.form.name": "Name",
+  "login.form.email": "Email",
+  "login.form.password": "Password",
+  "login.form.login": "Login",
+
+  "contact.title": "Contact",
+  "contact.form.name": "Name",
+  "contact.form.email": "Email",
+  "contact.form.phone": "Phone Number",
+  "contact.form.country": "Country",
+  "contact.form.text": "Text",
+  "contact.form.send": "Send",
+
+  "home.title": "What is Lorem Ipsum?",
+  "home.p": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+
+  "footer.title": "Copyright"
+}
